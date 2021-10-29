@@ -1,0 +1,21 @@
+server:
+  port: 8585
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: OTP server
+  datasource:
+    hikari:
+      jdbc-url: jdbc:h2:file:./target/h2db/db/otp;DB_CLOSE_DELAY=-1
+      username: sa
+      password: sa
+  jpa:
+    show-sql: true
+    generate-ddl: true
+    defer-datasource-initialization: true
+  sql:
+    init:
+      mode: always
+      continue-on-error: true

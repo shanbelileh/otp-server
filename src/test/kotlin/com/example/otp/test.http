@@ -1,0 +1,6 @@
+POST localhost:8585/api/otp/josephine.emard@gmail.com/generate
+
+###
+GET localhost:8585/api/otp/josephine.emard@gmail.com/validate/381946
+
+

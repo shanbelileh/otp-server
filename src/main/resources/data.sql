@@ -1,0 +1,9 @@
+insert into USERS (ROW_ID,USERNAME,KEY) values (1,'little.jensen@marquardt.biz','');
+insert into USERS (ROW_ID,USERNAME,KEY) values (2,'mariana.johns@hotmail.com','');
+insert into USERS (ROW_ID,USERNAME,KEY) values (3,'clementine.bernier@gmail.com','');
+insert into USERS (ROW_ID,USERNAME,KEY) values (4,'obaumbach@gmail.com','');
+insert into USERS (ROW_ID,USERNAME,KEY) values (5,'jenkins.elwin@mitchell.com','');
+insert into USERS (ROW_ID,USERNAME,KEY) values (6,'ivory.harris@yahoo.com','');
+insert into USERS (ROW_ID,USERNAME,KEY) values (7,'rutherford.lavern@gmail.com','');
+insert into USERS (ROW_ID,USERNAME,KEY) values (8,'mfeeney@yahoo.com','');
+insert into USERS (ROW_ID,USERNAME,KEY) values (9,'josephine.emard@gmail.com','');
